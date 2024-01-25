@@ -1,0 +1,31 @@
+API: (Method: GET):  https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/${city}?unitGroup=metric&key=EJ6UBL2JEQGYB3AA4ENASN62J&contentType=json
+
+
+Public IP: (Method: GET): 
+https://geolocation-db.com/json/
+
+
+
+Values Range:
+
+https://docs.google.com/document/d/1NoM88lhYl0xrcySNR_rqvA-PhK8eeEtKX4UjSYOcnTA/edit?usp=sharing
+
+
+API to change weather icons:
+condition is "partly-cloudy-day" = "https://i.ibb.co/PZQXH8V/27.png";
+condition is "partly-cloudy-night" = "https://i.ibb.co/Kzkk59k/15.png";
+condition is "rain" = "https://i.ibb.co/kBd2NTS/39.png";
+condition is "clear-day" = "https://i.ibb.co/rb4rrJL/26.png";
+condition is "clear-night" = "https://i.ibb.co/1nxNGHL/10.png";
+"https://i.ibb.co/rb4rrJL/26.png";
+
+
+API to change background depending on weather conditions:
+condition is "partly-cloudy-day" = "https://i.ibb.co/qNv7NxZ/pc.webp";
+condition is "partly-cloudy-night" = "https://i.ibb.co/RDfPqXz/pcn.jpg";
+condition is "rain" = "https://i.ibb.co/h2p6Yhd/rain.webp";
+condition is "clear-day" = "https://i.ibb.co/WGry01m/cd.jpg";
+condition is "clear-night" = "https://i.ibb.co/kqtZ1Gx/cn.jpg";
+ "https://i.ibb.co/qNv7NxZ/pc.webp";
+
+
